@@ -35,7 +35,7 @@
                 "HasCoderInfo": true,
                 "IsCSCPackageOverridden": false,
                 "ParameterOrSignal": "Parameter",
-                "StorageClass": "Auto",
+                "StorageClass": "Extern",
                 "TypeQualifier": ""
               }
             },
