@@ -22,7 +22,7 @@
                     1,
                     1
                   ],
-                  "mwtype": "int32"
+                  "mwtype": "int128"
                 },
                 "CSCPackageName": "Simulink",
                 "CustomAttributes": {
@@ -35,7 +35,7 @@
                 "HasCoderInfo": true,
                 "IsCSCPackageOverridden": false,
                 "ParameterOrSignal": "Parameter",
-                "StorageClass": "Auto",
+                "StorageClass": "Extern",
                 "TypeQualifier": ""
               }
             },
